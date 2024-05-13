@@ -86,9 +86,68 @@ background-color: #db6520;
 }
 
 
+.forms {
+
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+    display: flex;
+    justify-content: center;
+}
+
+.destino {
+
+    
+    display: inline-block;
+    border: 2px solid white; 
+    background-color: #fdb03d;
+    color: rgb(0, 0, 0); 
+    padding: 5px 10px; 
+    cursor: pointer; 
+    border-radius: 15px;
+}
+
+.salida {
+
+    
+    display: inline-block;
+    border: 2px solid white; 
+    background-color: #fdb03d;
+    color: rgb(0, 0, 0); 
+    padding: 5px 10px; 
+    cursor: pointer; 
+    border-radius: 15px;
+}
+.regreso {
+
+    
+    display: inline-block;
+    border: 2px solid white; 
+    background-color: #fdb03d;
+    color: rgb(0, 0, 0); 
+    padding: 5px 10px; 
+    cursor: pointer; 
+    border-radius: 15px;
+}
+.cantidad_d {
+
+    
+    display: inline-block;
+    border: 2px solid white; 
+    background-color: #fdb03d;
+    color: rgb(0, 0, 0); 
+    padding: 5px 10px; 
+    cursor: pointer; 
+    border-radius: 15px;
+}
 
 
-
+select{
+    margin:0 10px;
+}
+section>div{
+    margin: 0 10px;
+}
 
 .box {
     width: 200px;
